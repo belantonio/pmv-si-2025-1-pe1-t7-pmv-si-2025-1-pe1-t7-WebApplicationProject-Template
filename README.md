@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Um aplicativo de gestão financeira pessoal eficaz para resolver uma série de problemas comuns enfrentados por indivíduos na organização e controle de suas finanças.
+Contrala+ é um aplicativo de gestão financeira pessoal eficaz para resolver uma série de problemas comuns enfrentados por indivíduos na organização e controle de suas finanças.
 
 ## Integrantes
 
